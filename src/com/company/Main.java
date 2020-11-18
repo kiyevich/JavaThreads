@@ -11,8 +11,7 @@ public class Main {
 
         for(int i = 1;  i < 11; i++){
             new Car(i, parking, 5, 1).start();
-      
-            Double d = new Double("0.0");
+ 
         }
 
 
